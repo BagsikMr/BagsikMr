@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on adding and organizing all of my projects and ideas.<br>🌱 I’m currently learning java, python, latex, swift<br>⚡ Fun fact, most of the projects are hidden because I need to organize them, fix issues, and add readme files.
+🔭 I’m currently working on adding and organizing all of my projects and ideas.
+<br>🌱 I’m currently learning java, python, latex, swift
+<br>⚡ Fun fact, most of the projects are hidden because I need to organize them, fix issues, and add readme files.
 
 
 # 💻 Tech Stack:
