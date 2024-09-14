@@ -1,7 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on adding and organizing all of my projects and ideas.
-<br>🌱 I’m currently learning java spring framework and Unreal Engine 5.
-<br>⚡ Fun fact, most of the projects are hidden because I need to organize them, fix issues, and add readme files.
+🔭 A final-year computer science student at Gdańsk University of Technology.
 
 
 # 💻 Tech Stack:
